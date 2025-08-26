@@ -1,0 +1,2 @@
+# GMTSAR2GBIS
+通过Python脚本处理将GMTSAR处理的结果转换成GBIS可用的数据格式
