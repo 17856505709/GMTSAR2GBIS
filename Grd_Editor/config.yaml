@@ -1,0 +1,26 @@
+# 皮山
+## path 56
+#grd_path: /home/wsh/皮山/path_56_asc_20150630-20150724/2015180_2015204/unwrap_gacos_corrected_mask_ll.grd
+#output_path: /home/wsh/皮山/path_56_asc_20150630-20150724/2015180_2015204/unwrap_gacos_corrected_mask_ll_edited.grd
+#bounding_box: [77.50, 37.74, 78.50, 37.25]
+
+## path 129
+#grd_path: /home/wsh/皮山/path_129_asc_20150611-20150705/2015161_2015185/unwrap_gacos_corrected_mask_ll.grd
+#output_path: /home/wsh/皮山/path_129_asc_20150611-20150705/2015161_2015185/unwrap_gacos_corrected_mask_ll_edited.grd
+#bounding_box: [77.50, 37.74, 78.50, 37.25]
+
+## path 136
+#grd_path: /home/wsh/皮山/path_136_des_20150624-20150718/2015174_2015198/unwrap_gacos_corrected_mask_ll_edited.grd
+#output_path: /home/wsh/皮山/path_136_des_20150624-20150718/2015174_2015198/unwrap_gacos_corrected_mask_ll_edited_edited.grd
+#bounding_box: [77.50, 37.74, 78.50, 37.25]
+
+# 积石山
+## path 128
+#grd_path: /mnt/HANG/处理好的数据/积石山_path128_20231027-20231226_asc_gacos/2023299_2023359/res.grd
+#output_path: /mnt/HANG/处理好的数据/积石山_path128_20231027-20231226_asc_gacos/2023299_2023359/unwrap_ll_gacos_corrected_edited.grd
+#bounding_box: [102.25, 36.25, 103.25, 35.25]
+
+## path 135
+grd_path: /mnt/HANG/处理好的数据/积石山_path135_20231214-20231226_des_gacos/2023347_2023359/res.grd
+output_path: /mnt/HANG/处理好的数据/积石山_path135_20231214-20231226_des_gacos/2023347_2023359/unwrap_ll_gacos_corrected_edited.grd
+bounding_box: [102.25, 36.25, 103.25, 35.25]
